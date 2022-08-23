@@ -14,8 +14,6 @@ public class array {
 }
 */
 //2nd trick to define array in java
-
-package javafullcourse;
 import java.util.Arrays;
 import java.util.Scanner;
 

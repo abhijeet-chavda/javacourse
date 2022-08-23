@@ -1,4 +1,4 @@
-package javafullcourse;
+
 
 public class increment {
 public static void main(String args[]) {

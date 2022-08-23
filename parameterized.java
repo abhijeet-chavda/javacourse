@@ -1,4 +1,4 @@
-package javafullcourse;
+
 
 public class parameterized {
 int x,y;
